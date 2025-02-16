@@ -62,13 +62,6 @@ Fun project fetching **Rick and Morty API** data and displaying character inform
 
 ---
 
-### 🎯 Current Learning & Interests  
-📌 Improving my **backend skills** with **Node.js & MongoDB**  
-📌 Experimenting with **TypeScript & GraphQL**  
-📌 Exploring **AI-powered web applications**  
-
----
-
 ## ✨ Some More Facts About Me
 - 🎓 Studied **Chinese in Shanghai (2012-2014)**  
 - 🧪 Studied **Nanoscience at Uni Hamburg (2018-2020)**  
