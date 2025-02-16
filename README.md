@@ -49,13 +49,14 @@ I transitioned from QA Engineering into full-time development because I love cra
 Capstone project from **Neue Fische Bootcamp**. Built using **Next.js, Scrum methodology**, and **GitHub Kanban** for agile development. Features interactive flashcards for enhanced learning.  
 
 #### 🎨 [Art Gallery App](https://github.com/ImMrSage/art-gallery-app)  
-A modern, **React-based** gallery application showcasing artworks dynamically.  
+A modern, **React-based** gallery application showcasing artworks dynamically.
+
+#### 🌎 [Tourio - Travel Companion](https://github.com/ImMrSage/recap-project-6_tourio-app)  
+A travel app, integrating location-based features to enhance travel experiences.  
 
 #### 🧩 [Rick and Morty App](https://github.com/ImMrSage/rick-and-morty-app)  
 Fun project fetching **Rick and Morty API** data and displaying character information dynamically.  
 
-#### 🌎 [Tourio - Travel Companion](https://github.com/ImMrSage/recap-project-6_tourio-app)  
-A travel app built with **JavaScript**, integrating location-based features to enhance travel experiences.  
 
 🔗 Check out all my projects [here](https://github.com/ImMrSage?tab=repositories).  
 
